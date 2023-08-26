@@ -5,7 +5,7 @@ function HomePage() {
     <div className="home-page-container">
       <div className="image-container">
         <img src="Background.jpg" alt="Welcome" />
-        <h2 className="welcome-text">Welcome to the Home Page</h2>
+        {/* <h2 className="welcome-text">Welcome to the Home Page</h2> */}
       </div>
     </div>
   );
